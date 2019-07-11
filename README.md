@@ -1,2 +1,2 @@
 # nodejs-ci-travis
-Testing Nodejs CI with Travis
+Sample nodejs continuous integration testing with travis CI.
